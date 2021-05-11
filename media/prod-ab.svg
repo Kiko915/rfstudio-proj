@@ -1,0 +1,20 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#ffffff" id="svg_1" d="m2,2a1,1 0 0 0 0,2l5,0l0,-2l-5,0z"/>
+  <path fill="#ffffff" id="svg_2" d="m14,2l-3,0l0,2l3,0a1,1 0 0 0 0,-2z"/>
+  <path fill="#ffffff" id="svg_3" d="m9,5a1,1 0 0 1 -1,-1l0,-2a1,1 0 0 1 2,0l0,2a1,1 0 0 1 -1,1z"/>
+  <path fill="#ffffff" id="svg_4" d="m14,7l-6,0l0,2l6,0a1,1 0 0 0 0,-2z"/>
+  <path fill="#ffffff" id="svg_5" d="m2,7a1,1 0 0 0 0,2l2,0l0,-2l-2,0z"/>
+  <path fill="#ffffff" id="svg_6" d="m6,10a1,1 0 0 1 -1,-1l0,-2a1,1 0 0 1 2,0l0,2a1,1 0 0 1 -1,1z"/>
+  <path fill="#ffffff" id="svg_7" d="m2,12a1,1 0 0 0 0,2l8,0l0,-2l-8,0z"/>
+  <path fill="#ffffff" id="svg_8" d="m14,12l0,2a1,1 0 0 0 0,-2z"/>
+  <path fill="#ffffff" id="svg_9" d="m12,15a1,1 0 0 1 -1,-1l0,-2a1,1 0 0 1 2,0l0,2a1,1 0 0 1 -1,1z"/>
+ </g>
+</svg>
